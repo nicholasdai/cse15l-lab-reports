@@ -1,4 +1,4 @@
-# Clash Royale Cards I hate:
+# Clash Royale Cards I Hate:
 ## By Nicholas
 Ebarbs
 *Ebarbs*
