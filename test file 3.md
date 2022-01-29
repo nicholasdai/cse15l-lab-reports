@@ -1,7 +1,3 @@
 # title
 
-[something]
-
-something
-
-(something.com)
+[something] something (something.com)
