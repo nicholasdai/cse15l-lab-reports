@@ -10,7 +10,7 @@ This code was changed because, when using a test file such as [this one](https:/
 
 ## Second Change
 
-![img2](new 2.png)
+![img2](New 2.png)
 
 This code was changed because, when using [this](https://github.com/nicholasdai/cse15l-lab-reports/blob/main/test%20file%202.md) or a similar test file, an image would be printed because there is nothing to distinguish images and links since they both have brackets. This code change allows for ```!``` to be checked, in order to see if there would be an image, since images are distinguished from links by the exclamation mark.
 
