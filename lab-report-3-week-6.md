@@ -1,4 +1,4 @@
-# Week 6 Lab Report: Bug Catching and Fixing Symptoms
+# Week 6 Lab Report: Copying  Directories with SCP -R
 
 Hello! My name is Nicholas Dai today we will be discussing copying entire directories into the ieng6 account.
 
