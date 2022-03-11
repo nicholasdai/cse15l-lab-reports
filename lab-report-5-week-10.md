@@ -25,9 +25,11 @@ Because I had editted the script originally, I can also see what files led to th
 ## Failing Test 1
 
 The first file is shown below: 
+
 ![img6](failtest1.png)
 
 For this test, the expected output should have been ```[my_(url)]```. As seen in my previous images, I got the following:
+
 ![img2](myresult1.png)
 ![img4](result1.png)
 
@@ -40,9 +42,11 @@ The issue with my code was that I spent the whole time searching for parentheses
 ## Failing Test 2
 
 The second file is shown below:
+
 ![img7](failtest2.png)
 
 For this test, the expected output should have been ```[]```. As seen in my previous images, I got the following:
+
 ![img3](myresult2.png)
 ![img5](result2.png)
 
